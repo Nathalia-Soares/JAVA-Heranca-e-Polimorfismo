@@ -8,18 +8,18 @@ Para o desenvolvimento deste código, foi utilizada a IDE Intellij Idea 2023.2.1
 ## Funcionalidades Principais
 
 * Criar um cadastro de veículos, em que o usuário deve preencher os dados de determinado veículo, tendo como opções:
-  1) Automóvel
-  2) Navio
+  1 - Automóvel
+  2 - Navio
 
-* Os atributos de cada veículo encontram-se em suas respectivas classes.
-* Tanto a classe AUTOMÓVEL quanto NAVIO utilizam o recurso de herança e polimorfismo, herdando atributos e métodos de suas respectivas classes-mães
+* Os atributos de cada veículo encontram-se em suas respectivas classes;
+* Tanto a classe AUTOMÓVEL quanto NAVIO utilizam o recurso de herança e polimorfismo, herdando atributos e métodos de suas respectivas classes-mães.
 
 ## Como Usar
 
 **Clonando o Repositório:**
    ```shell
    git clone https://github.com/Nathalia-Soares/JAVA-Heranca-e-Polimorfismo.git
-   simulado_prova_javaPOO
+   JAVA-Heranca-e-Polimorfismo
    ``````
 
 ## Licença
