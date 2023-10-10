@@ -1,6 +1,6 @@
 # JAVA-Heranca-e-Polimorfismo
 
-Atividade desenvolvida na disciplina Técnicas de Programação I, com foco no aprendizado de programação orientada a objetos
+Atividade desenvolvida na disciplina Técnicas de Programação I, com foco no aprendizado de programação orientada a objetos em linguagem de programação Java.
 Para o desenvolvimento deste código, foi utilizada a IDE Intellij Idea 2023.2.1 (Ultimate Edition) e o Java versão 17.
 
 ## Sobre o Projeto
